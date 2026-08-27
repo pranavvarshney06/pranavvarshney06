@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I'm Pranav Varshney</h1>
-<h3 align="center">Vibe Coder ✨ · Building things one prompt at a time 🚀</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Pranav%20Varshney&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Vibe%20Coder%20%E2%9C%A8&descAlignY=75&descSize=20" width="100%" alt="Header"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered%20by-Good%20Vibes-8A2BE2?style=for-the-badge" alt="Good Vibes"/>
-  <img src="https://img.shields.io/badge/Fueled%20by-Curiosity%20%26%20Coffee-brown?style=for-the-badge" alt="Curiosity and Coffee"/>
+  <a href="https://github.com/pranavvarshney06">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=500&lines=Building+things+one+prompt+at+a+time+🚀;Python+%7C+Data+%7C+Web+Dev;Idea+first%2C+syntax+later+🌊;Always+shipping%2C+always+learning" alt="Typing animation"/>
+  </a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🌊 I code by vibe — idea first, syntax later
 - 🐍 Currently exploring **Python, data tools, and web dev**
 - 🛠️ Building small projects, breaking things, learning fast
-- 📫 Reach me: **pranavvarshneya@gmail.com**
+- 📫 Reach me: **pranavvarshneya@gmail.com** 
 
 ---
 
@@ -32,5 +32,8 @@
 | 🌱 First public repo | Loading… |
 | 💡 Ideas | Always brewing |
 
+
 ---
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="Footer"/>
