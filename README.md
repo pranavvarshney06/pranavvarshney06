@@ -34,27 +34,6 @@ class PranavVarshney:
 
 ---
 
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavvarshney06&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=pranavvarshney06&theme=radical&hide_border=true&background=0d1117" alt="Streak stats" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavvarshney06&theme=redical&bg_color=0d1117&color=b16cea&line=8e2de2&point=ffffff&hide_border=true" width="95%" alt="Activity graph"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavvarshney06&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 💭 Dev Quote of the Day
 
 <p align="center">
